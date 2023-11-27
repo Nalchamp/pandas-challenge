@@ -9,3 +9,5 @@ First commit - initial files and folders added including the .csv resources file
 4th commit - 'PyCitySchools.ipynb' file completed up to the individual school percentages
 
 5th commit - 'PyCitySchools.ipynb' file completed up to the end of School Summary
+
+6th commit - 'PyCitySchools.ipynb' file fully completed
